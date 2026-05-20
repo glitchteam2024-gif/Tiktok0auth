@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/callback.js": {
+      "maxDuration": 30
+    }
+  }
+}
